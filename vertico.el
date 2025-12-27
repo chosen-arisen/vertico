@@ -7,6 +7,7 @@
 ;; Created: 2021
 ;; Version: 2.6
 ;; Package-Requires: ((emacs "29.1") (compat "30"))
+;; Package-Subdirectories: ("extensions/")
 ;; URL: https://github.com/minad/vertico
 ;; Keywords: convenience, files, matching, completion
 
